@@ -1,9 +1,9 @@
 Virtual Env Setup:
-Install virtualenv (if it is not already installed): python -m pip install --user virtualenv
-Create a viritual environment for this class: virtualenv ml4t-venv
-Activate the new virtual environment: source ml4t-venv/bin/activate on Linux or macOS, ml4t-venv/Scripts/activate.bat on Windows.
-Save the above list as a text file, say ml4t-libraries.txt
-Install the libraries using the requirements file you just saved: python -m pip install --requirement ml4t-libraries.txt
+-> Install virtualenv (if it is not already installed): python -m pip install --user virtualenv
+-> Create a viritual environment for this class: virtualenv ml4t-venv
+-> Activate the new virtual environment: source ml4t-venv/bin/activate on Linux or macOS, ml4t-venv/Scripts/activate.bat on Windows.
+-> Save the above list as a text file, say ml4t-libraries.txt
+-> Install the libraries using the requirements file you just saved: python -m pip install --requirement ml4t-libraries.txt
 
 
 Paackges to be included:
